@@ -5,12 +5,13 @@
 > bash install.sh
 > npm i @adiwajshing/baileys@3.4.1
 > npm start
+``
  
- # deskripsi
+ ##deskripsi
  ```bash
  maaf kak acak acakan ga jelas, gw masih SMP belum tau semuanyaa sih, 
  jadi kalo ada yang eror chat gw, kontak gw di bawah nih
- 
+ ```
  
  ___
 
