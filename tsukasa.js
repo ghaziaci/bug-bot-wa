@@ -630,7 +630,7 @@ res = await tsukasa.prepareMessageFromContent(from,{
   break
   case 'buggif': 
 const nicko = fs.readFileSync('./media/tsukasa.gif')
-					tsukasa.sendMessage(from,nicko,video, {mimetype: Mimetype.gif,caption: virtex2(prefix), thumbnail: fs.readFileSync('./media/tsukasa.jpeg'),quoted: {
+					tsukasa.sendMessage(from,nicko,video, {mimetype: Mimetype.gif,caption: virtex2(prefix), thumbnail: fs.readFileSync('./media/tsukasa3.jpeg'),quoted: {
 				  key: {
 				   fromMe: false,
 				   participant: `0@s.whatsapp.net`, // Fake sender Jid
