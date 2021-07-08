@@ -9,7 +9,7 @@
  
  # deskripsi
  ```bash
- maaf kak acak acakan ga jelas, gw masih SMP belum tau semuanyaa sih, 
+ maaf kak acak acakan ga jelas, gw masih bocil belum tau semuanyaa sih, 
  jadi kalo ada yang eror chat gw, kontak gw di bawah nih
  ```
  
