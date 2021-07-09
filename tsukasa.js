@@ -1,6 +1,7 @@
 /** info!!! 
 sc ori mhank bar bar
 tsukasa3.jpeg ama tsukasa4.jpeg jangan di ganti!
+soalnya itu gambar ngebug, kalo mau work bug ingin nya ya jangan di ganti
 Tq To:
 > Tuhan Yang Maha Esa
 > Diri Sendiri 
