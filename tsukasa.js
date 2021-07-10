@@ -5,6 +5,7 @@ soalnya itu gambar ngebug, kalo mau work bug nya ya jangan di ganti
 Tq To:
 > Tuhan Yang Maha Esa
 > Diri Sendiri 
+🙂
 */
 const
 	{
