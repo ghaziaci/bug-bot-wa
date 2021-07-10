@@ -1,0 +1,7 @@
+const myName = `Nicko`;
+
+const myAge = `14`;
+
+const myHobby = `play cellphone until dad gets angry`;
+
+const sayDetails = `My Name Is ${myName} ,I am ${myAge} Years old and my hobby is ${myHobby}.`;
