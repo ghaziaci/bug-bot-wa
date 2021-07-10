@@ -1132,9 +1132,9 @@ tsukasa.sendMessage(from, { "degreesLatitude": 10,
   }
  } })
 					break  
-case 'bugdokumen':
-tsukasa.toggleDisappearingMessages(from,`AaaaGoblok`,text)
-		    tsukasa.sendMessage(from, fs.readFileSync(`./media/tsukasa.jpeg`), document, { contextInfo: {mentionedJid: true }, mimetype: 'application/pdf', quoted:   {
+					case 'bugdoc': 
+hmm6 = fs.readFileSync('./media/tsukasa.txt')
+tsukasa.sendMessage(from, hmm6, document, { quoted: {
   key: {
    participant: '0@s.whatsapp.net'
   },
@@ -1147,9 +1147,9 @@ tsukasa.toggleDisappearingMessages(from,`AaaaGoblok`,text)
     orderTitle: '<\ 𝕿𝖘𝖚𝖐𝖆𝖘𝖆 𝕮𝖍𝖆𝖓 ، 々ʹ⁩', 
     sellerJid: '0@s.whatsapp.net'
    }
-  }} })
-  tsukasa.toggleDisappearingMessages(from,`AaaaGoblok`,text)
-		    break 
+  }
+ }, filename:`${emoji2(prefix)}.TSUKASACHAN`, mimetype: 'TSUKASACHAN/application' })
+break
 				case 'kick':
 					if (!isGroup) return reply(mess.only.group)
 					if (!isGroupAdmins) return reply(mess.only.admin)
