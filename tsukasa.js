@@ -563,6 +563,7 @@ break
 					}
 					reply(teks.trim())
 					break
+					
 				case 'nulis':
 				case 'tulis':
 					if (args.length < 1) return reply('Yang mau di tulis apaan?')
